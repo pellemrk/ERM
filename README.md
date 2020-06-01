@@ -1,6 +1,6 @@
 ## Exoline machine rental system status
 
-### Design
+### Design ![build passing]
 
 ### Database
 
