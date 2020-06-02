@@ -5,7 +5,7 @@
 ----
 
 ### Database
-![Generic badge](https://img.shields.io/badge/PLANNING-70%-<COLOR>.svg)
+![Generic badge](https://img.shields.io/badge/PLANNING-70-<COLOR>.svg)
 ----
 
 ### Functionality
